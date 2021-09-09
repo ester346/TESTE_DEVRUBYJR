@@ -1,0 +1,7 @@
+# 6.	Considerando a estrutura padrão de arquivos de um projeto feito com Ruby on Rails, em quais pastas devem se encontrar os models, os controllers e as views de um projeto? De que modo é possível saber qual controller é responsável por gerenciar uma determinada view?
+
+R= Os Controllers estarão na pasta: app/controllers 
+As views estarão na pasta: app/views 
+Os models estarão na pasta: app/models
+
+A maneira mais adequada de saber qual controller é responsável por determinada view, é por meio do roteamento, ou rotas, que ocorrem no arquivo. Nela, estarão contidas  as entradas de uma DSL especial (dominío), dizendo ao Rails como ocorreu a conexão e as solicitações, de entrada (views), com as ações/controladores (controllers). 

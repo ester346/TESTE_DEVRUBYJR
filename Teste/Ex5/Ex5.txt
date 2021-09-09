@@ -1,0 +1,21 @@
+# 5. 	Quais são as vantagens/desvantagens de se usar a arquitetura MVC (Model, View e Controller)?
+
+R = A arquitetura de desenvolvimento MVC, é muito útil para o organização de projetos de alta complexidade. Tendo como vantagens: 
+
+- Separação muita clara das camadas (Model, View e Controller) e das Regras de negócio; 
+- Facilidade de compreender e de realizar a manutenção de sistemas. 
+- Reaproveitamento de códigos, principalmente, em projetos deferentes. 
+- Alterações na camada de visualização não afetam as regras de negócios. 
+- Permite o desenvolvimento, teste e manutenção de forma isolada entre as camadas. 
+- Projetos melhor organizado em sua arquitetura. 
+- Torna o entendimento mais fácil par novos programadores que não participaram do início do desenvolvimento de algum projeto. 
+
+Entretanto, a aquitetura MVC pode ter, também, algumas desvantagens, como: 
+
+- A complexidade de entender, inicialmente, o conceito de divisão de camadas; 
+
+- Em sistemas de baixa complexidade, o MVC pode criar uma complexidade desnecessária.
+
+- Exige muita disciplina dos desenvolvedores em relação à separação das camadas. 
+
+- Requer um tempo maior para modelar o sistema.   
